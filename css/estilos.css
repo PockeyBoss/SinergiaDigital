@@ -339,6 +339,10 @@ footer {
     background-color: #1A1A1A;
     color: #fff;
 }
+.email{
+    text-decoration: none;
+    color: gray;
+}
 
 
 
@@ -443,4 +447,4 @@ footer {
     .iconos {
         margin: auto;
     }
-}
+ }
